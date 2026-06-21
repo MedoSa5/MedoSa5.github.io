@@ -1,11 +1,14 @@
+---
+layout: post
+title: "Starting the Journey"
+date: 2026-06-21
+categories: [roadmap, devsecops]
+---
+
 ### Welcome
-
 This marks the beginning of a long-term engineering journey focused on developing the skills, projects, and practical experience required for a career in **DevSecOps** and **Secure Infrastructure Engineering**.
-
 Over the next ~16 months, I will follow a structured, project-driven roadmap designed to build strong foundations in systems, infrastructure, automation, cloud technologies, and security. The emphasis will be on practical implementation, real-world projects, and continuous improvement rather than simply completing courses or collecting certifications.
-
 The roadmap is organized into the following phases:
-
 1. Linux Foundations & Administration
 2. Networking Fundamentals & Applied Cryptography
 3. Scripting & Automation
