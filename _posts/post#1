@@ -1,0 +1,22 @@
+### Welcome
+
+This marks the beginning of a long-term engineering journey focused on developing the skills, projects, and practical experience required for a career in **DevSecOps** and **Secure Infrastructure Engineering**.
+
+Over the next ~16 months, I will follow a structured, project-driven roadmap designed to build strong foundations in systems, infrastructure, automation, cloud technologies, and security. The emphasis will be on practical implementation, real-world projects, and continuous improvement rather than simply completing courses or collecting certifications.
+
+The roadmap is organized into the following phases:
+
+1. Linux Foundations & Administration
+2. Networking Fundamentals & Applied Cryptography
+3. Scripting & Automation
+4. Infrastructure as Code (IaC) & Containers
+5. Cloud Engineering (AWS)
+6. Observability & Monitoring
+7. Security Engineering
+8. Kubernetes & Secrets Management
+9. Capstone Infrastructure Projects
+10. Product Development & Deployment
+
+This blog will serve as a technical journal documenting progress, challenges, lessons learned, project milestones, and key takeaways throughout the journey.
+
+The objective is simple: build real competence, create meaningful projects, and develop the capabilities required to design, automate, secure, and operate modern infrastructure at scale.
